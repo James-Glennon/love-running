@@ -1,3 +1,36 @@
+# Love Running walkthrough project.
+
+This website was created with the instruction of video tutorials for students of the code institute on the full stack web developer course.
+Below is a copy of the read me information provided with this template.
+
+The website services a fictional running club located in the Dublin area.
+Features include;
+
+            -   a hero image with a minor zoom effect.   
+            -   a consitent header and footer design across all pages, including internal achor links to other pages (navigation bar) and external links (to social media sites).
+            -   paragraph elements that arrange themselves around a central image in response to different screen sizes.
+            -   five block divs arranged over a single background image.
+            -   a 'masonry' style arrangement of images, the columns of which responds to screen size.
+            -   a sign-up sheet that allows for text, email and radio button inputs.
+
+The purpose of this project is to demonstrate use of HTML and CSS as a guideline for my own self-directed projects.
+
+## Important note(s).
+
+The sign-up page was completed in another workspace for assessment purposes.
+It has been copied in its entirety, including edits to the css and links in the other two pages.
+The last commit prior to this edit is commit 885548d1f7e843daef99a38dbf41ffe49c2a99e9 .
+
+### Caution: Sign-up submit button is functional, any submitted information will be sent to codeinstitute.net
+#### Social media links are functional and will open in a new tab.
+
+Author:
+James Glennon.
+Student.
+Code Institute
+Full-stack web development 
+
+--------
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome James-Glennon,
